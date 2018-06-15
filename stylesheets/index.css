@@ -3,9 +3,7 @@ body {
     background-size: cover;
 }
 
-#bootstrap-overrides .text {
-    text-decoration: white;
-    text-decoration-color: white;
-    -webkit-text-fill-color: white;
-    -moz-text-decoration-color: white;
+.jumbotron {
+    background: rgba(233, 236, 239, 0.5); 
+    margin-top: 5%;
 }
